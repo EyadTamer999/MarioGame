@@ -1,0 +1,5 @@
+# ninja log v5
+3	338	6948804409985119	CMakeFiles/Mario.dir/main.cpp.obj	1637a8ddd1b42cc5
+339	454	6948804411130435	Mario.exe	aeb6c2e47fa2887b
+3	762	6905006361446078	CMakeFiles/Mario.dir/GameClasses.cpp.obj	a07cf666d3a74743
+1	303	6948809863076176	build.ninja	bf705115b0169e9b

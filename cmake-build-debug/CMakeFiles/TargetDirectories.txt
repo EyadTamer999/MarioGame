@@ -1,0 +1,3 @@
+C:/Users/Eyad Tamer/CLionProjects/Mario/cmake-build-debug/CMakeFiles/Mario.dir
+C:/Users/Eyad Tamer/CLionProjects/Mario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Eyad Tamer/CLionProjects/Mario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
